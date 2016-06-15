@@ -1,9 +1,9 @@
 # Using the Smartex Key Utilities Library
 
 This is the Smartex API utilities library. It is used to :
-- create keys
-- retrieving public keys
-- create a SIN to use when retrieving tokens from the Smartex API
+- Create keys
+- Retrieving public keys
+- Create a SIN to use when retrieving tokens from the Smartex API
 - Sign a payload to use in the `X-Signature` header field of a Smartex API request.
 
 ## Quick Start
